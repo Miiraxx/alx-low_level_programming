@@ -1,7 +1,9 @@
 #include <stdio.h>
 
-/***
-* main - Prints C types
+/**
+* main - Entry point
+*
+* Description: Prints C types
 *
 * Return: Always 0 (Success)
 */
