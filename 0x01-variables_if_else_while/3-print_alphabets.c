@@ -5,9 +5,7 @@
  *
  * return: (0)
  */
-
 int maint(void)
-
 {
 	char lower;
 	char upper;
