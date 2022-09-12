@@ -3,7 +3,7 @@
 /**
  * main - prints the lowercase alphabet in reverse.
  *
- * Retrun: (0)
+ * Return: (0)
  */
 
 int main(void)
@@ -11,7 +11,7 @@ int main(void)
 {
 	char alpha;
 
-	for (alpha = 'z'; alpha <= 'a'; alpha--)
+	for (alpha = 'z'; alpha >= 'a'; alpha--)
 	{
 		putchar(alpha);
 	}
