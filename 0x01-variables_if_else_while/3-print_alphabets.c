@@ -5,7 +5,7 @@
  *
  * return: (0)
  */
-int maint(void)
+int main(void)
 {
 	char lower;
 	char upper;
